@@ -1,3 +1,5 @@
+**Views** **---**![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Alpha-330)
+
 👋 Hi, I'm Piyush Hardasani
 Welcome to my GitHub profile! I'm a passionate developer dedicated to creating innovative and efficient solutions to real-world problems.
 
