@@ -4,9 +4,7 @@
 Welcome to my GitHub profile! I'm a passionate developer dedicated to creating innovative and efficient solutions to real-world problems.
 
 
-
-
-          views : ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Alpha-330)
+views : ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Alpha-330)
 
 
 
