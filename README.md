@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to creating i
 
 
 
-          ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Alpha-330)
+          views : ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Alpha-330)
 
 
 
