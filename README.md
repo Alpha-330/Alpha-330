@@ -63,7 +63,7 @@ https://github-readme-streak-stats.herokuapp.com/?Alpha-330
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alpha-330&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alpha-330&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha-330" alt="Piyush Hardasani"  /></p></div>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha-330&" alt="Piyush Hardasani"  /></p></div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/Alpha-330/github-readme-stats)
