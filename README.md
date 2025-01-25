@@ -66,7 +66,8 @@ https://github-readme-streak-stats.herokuapp.com/?Alpha-330
 <div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha-330&" alt="Piyush Hardasani"  /></p></div>
 
 
-<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-330)](https:/anuraghazra/github.com//github-readme-stats)</div>
+<div align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
 
 
 
