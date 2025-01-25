@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 👋 Hi, I'm Piyush Hardasani
 Welcome to my GitHub profile! I'm a passionate developer dedicated to creating innovative and efficient solutions to real-world problems.
