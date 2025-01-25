@@ -66,7 +66,7 @@ https://github-readme-streak-stats.herokuapp.com/?Alpha-330
 <div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha-330&" alt="Piyush Hardasani"  /></p></div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-330)](https:/anuraghazra/github.com//github-readme-stats)
+<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-330)](https:/anuraghazra/github.com//github-readme-stats)</div>
 
 
 📫 How to Reach Me
