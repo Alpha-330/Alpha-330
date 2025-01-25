@@ -67,7 +67,7 @@ https://github-readme-streak-stats.herokuapp.com/?Alpha-330
 
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-330)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
