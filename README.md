@@ -51,17 +51,7 @@ Projects that focus on creating a positive impact in society.
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-The results are pictured below.
 
-Languages and tools preview
-Adding GitHub Stats
-Here’s an image of what we’ll add in this section.
-
-GitHub stats section
-For heading, add the following code to README.md:
-
-pullreview_2025_01_726x300
----
 
 ### :fire: My Stats :
 We’ll add some stats about the user’s GitHub activity like the number of commits, number of PRs, etc., to this section. There are many open-source projects on GitHub that offer different stats for the GitHub profile. In this tutorial, we’ll see how to use two such open-source projects.
