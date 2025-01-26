@@ -74,7 +74,7 @@ https://github-readme-streak-stats.herokuapp.com/?Alpha-330
 
 📫 How to Reach Me
 Email: reachpiyush.h@gmail.com
-<img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" height="30" />:https://www.linkedin.com/in/piyushhardasani/
+<a href = "https://www.linkedin.com/in/piyushhardasani/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" height="30" />
 
 
 😄 Pronouns
