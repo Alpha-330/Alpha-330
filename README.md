@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 Hi, ![WaveHandGIF](https://github.com/user-attachments/assets/b9b0ec7d-a7f2-4a56-940e-2e5a08fa860e)
 **I'm Piyush Hardasani  a Full Stack Developer from India.**
@@ -10,6 +7,9 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to creating i
 
 **![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Alpha-330)**
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 
 
