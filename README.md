@@ -76,7 +76,7 @@ https://github-readme-streak-stats.herokuapp.com/?Alpha-330
 Email: reachpiyush.h@gmail.com <br>
 
 🌐 Socials:
-LinkedIn
+
 <a href = "https://www.linkedin.com/in/piyushhardasani/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" height="30" />
 <a href = "https://www.youtube.com/@piyushhardasani"><img src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" height="20" />
 
