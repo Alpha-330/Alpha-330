@@ -64,7 +64,7 @@ https://github-readme-streak-stats.herokuapp.com/?Alpha-330
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alpha-330&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alpha-330&theme=dark&type=png)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alpha-330&theme=dark&type=png" alt="GitHub Streak" /></a>
 
 
 
