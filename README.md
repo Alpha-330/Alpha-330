@@ -1,5 +1,5 @@
 
-Hey, ![WaveHandGIF](https://github.com/user-attachments/assets/b9b0ec7d-a7f2-4a56-940e-2e5a08fa860e)
+**Hey**, ![WaveHandGIF](https://github.com/user-attachments/assets/b9b0ec7d-a7f2-4a56-940e-2e5a08fa860e)
 **I'm Piyush Hardasani  a Full Stack Developer from India.**
 
 Welcome to my GitHub profile! I'm a passionate developer dedicated to creating innovative and efficient solutions to real-world problems.
