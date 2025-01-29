@@ -57,7 +57,7 @@ Projects that focus on creating a positive impact in society.
 
 ---
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alpha-330&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushhardasani) 
