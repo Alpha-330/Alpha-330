@@ -1,5 +1,5 @@
 
-**Hey**, ![WaveHandGIF](https://github.com/user-attachments/assets/b9b0ec7d-a7f2-4a56-940e-2e5a08fa860e)
+**Hey**,
 **I'm Piyush Hardasani  a Full Stack Developer from India.**
 
 Welcome to my GitHub profile! I'm a passionate developer dedicated to creating innovative and efficient solutions to real-world problems.
@@ -57,29 +57,25 @@ Projects that focus on creating a positive impact in society.
 
 ---
 
-### :fire: My Stats :
-<!--
-https://github-readme-streak-stats.herokuapp.com/?Alpha-330
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alpha-330&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alpha-330&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alpha-330&" alt="GitHub Streak" /></a>
-  
-</div>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-330)](https://github.com/anuraghazra/github-readme-stats)
-📫 How to Reach Me
-Email: reachpiyush.h@gmail.com <br>
-
-🌐 Socials:
-
-<a href = "https://www.linkedin.com/in/piyushhardasani/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" height="30" /></a> &emsp;    <!-- Four spaces gap -->
-<a href = "https://www.youtube.com/@piyushhardasani"><img src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" height="30" />
-</a>
-<br> <br>
-😄 Pronouns
-He/Him
 
 
-⚡ Fun Fact
-I love solving puzzles and challenges that make me think outside the box—whether it's debugging code or tackling a new hobby like photography or traveling to unique places.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehtamanya) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Alpha-330&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alpha-330&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-330&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Alpha-330&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Alpha-330&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
