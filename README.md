@@ -56,7 +56,7 @@ Projects that focus on creating a positive impact in society.
 
 
 ---
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alpha-330&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alpha-330&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a> -->
 
 
 ## 🌐 Socials:
